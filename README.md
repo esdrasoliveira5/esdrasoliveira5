@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esdras Oliveira</h1>
-<h3 align="center">I am passionate about music, arts, and technology, I have a bachelor's degree in music from the Federal University of Minas Gerais, a professor and chief of staff with 6 years of experience. After dedicating myself for years to music I am now turning to the area of ​​technology, I had the opportunity to be approved in the selection process of the Web development course at Trybe where I am currently studying to become a Full Stack Dev.</h3>
+<h3 align="center">A passionate about technology, arts, and music, I am from Minas Gerais, Brazil. I have a bachelor's degree in music from the Federal University of Minas Gerais and I am currently studying to become a Full Stack Dev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esdrasoliveira5&label=Profile%20views&color=0e75b6&style=flat" alt="esdrasoliveira5" /> </p>
 
