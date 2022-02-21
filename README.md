@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esdrasoliveira5" alt="esdrasoliveira5" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/esdrasmoliveira" target="blank"><img src="https://img.shields.io/twitter/follow/esdrasmoliveira?logo=twitter&style=for-the-badge" alt="esdrasmoliveira" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [esdrasjesus.portifolio.com](esdrasjesus.portifolio.com)
+- 👨‍💻 All of my projects are available at [https://esdrasoliveiraportfolio.vercel.app/](https://esdrasoliveiraportfolio.vercel.app/)
 
 - 📫 How to reach me **esdrasjesus5@gmail.com**
 
