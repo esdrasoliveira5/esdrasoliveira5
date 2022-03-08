@@ -8,8 +8,10 @@
 - 👨‍💻 All of my projects are available at [https://esdrasoliveiraportfolio.vercel.app/](https://esdrasoliveiraportfolio.vercel.app/)
 
 - 📫 How to reach me **esdrasjesus5@gmail.com**
-
+- 
+- 📄 Know about my experiences [https://drive.google.com/file/d/18t-z4NtUBzG5hwF4_ictD5AaNI-BFwFF/view](https://drive.google.com/file/d/18t-z4NtUBzG5hwF4_ictD5AaNI-BFwFF/view)
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/esdrasmoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esdrasmoliveira" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/esdrasmoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esdrasmoliveira" height="30" width="40" /></a>
