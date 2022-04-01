@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **esdrasjesus5@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18t-z4NtUBzG5hwF4_ictD5AaNI-BFwFF/view](https://drive.google.com/file/d/18t-z4NtUBzG5hwF4_ictD5AaNI-BFwFF/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1A5lRVQ-bpkbI0re_anO6hgzfhX9WQcLL/view?usp=sharing](https://drive.google.com/file/d/1A5lRVQ-bpkbI0re_anO6hgzfhX9WQcLL/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
