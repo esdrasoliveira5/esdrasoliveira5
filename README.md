@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esdras Oliveira</h1>
 <h3 align="center">A passionate about technology, arts, and music, I am from Minas Gerais, Brazil. I have a bachelor's degree in music from the Federal University of Minas Gerais and I am currently studying to become a Full Stack Dev.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esdrasoliveira5&label=Profile%20views&color=0e75b6&style=flat" alt="esdrasoliveira5" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esdrasoliveira5" alt="esdrasoliveira5" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://esdrasoliveiraportfolio.vercel.app/](https://esdrasoliveiraportfolio.vercel.app/)
 
 - 📫 How to reach me **esdrasjesus5@gmail.com**
@@ -13,11 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://twitter.com/esdrasmoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esdrasmoliveira" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/esdrasmoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esdrasmoliveira" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18234803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18234803" height="30" width="40" /></a>
-<a href="https://fb.com/esdras.dejesus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="esdras.dejesus" height="30" width="40" /></a>
-<a href="https://instagram.com/esdrasm.oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="esdrasm.oliveira" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
