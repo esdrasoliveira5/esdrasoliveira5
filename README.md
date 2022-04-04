@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esdras Oliveira</h1>
-<h3 align="center">A passionate about technology, arts, and music, I am from Minas Gerais, Brazil. I have a bachelor's degree in music from the Federal University of Minas Gerais and I am currently studying to become a Full Stack Dev.</h3>
+<h3 align="center">A passionate about technology, arts, and music, I am from Minas Gerais, Brazil. I have a bachelor's degree in music from the Federal University of Minas Gerais and a Full Stack Dev.</h3>
 
 - 👨‍💻 All of my projects are available at [https://esdrasoliveiraportfolio.vercel.app/](https://esdrasoliveiraportfolio.vercel.app/)
 
