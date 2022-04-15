@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Esdras Oliveira</h1>
 <h3 align="center">A passionate about technology, arts, and music, I am from Minas Gerais, Brazil. I have a bachelor's degree in music from the Federal University of Minas Gerais and a Full Stack Dev.</h3>
 
-- 👨‍💻 All of my projects are available at [https://esdrasoliveiraportfolio.vercel.app/](https://esdrasoliveiraportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://esdrasoliveiraportfolio.vercel.app/)
 
 - 📫 How to reach me **esdrasjesus5@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Kou4RpzydbWtB03z89TZYU0Fj3QgmMjU/view?usp=sharing(https://drive.google.com/file/d/1Kou4RpzydbWtB03z89TZYU0Fj3QgmMjU/view?usp=sharing)
+- 📄 Know about my experiences [Curriculum](https://drive.google.com/file/d/1Kou4RpzydbWtB03z89TZYU0Fj3QgmMjU/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
